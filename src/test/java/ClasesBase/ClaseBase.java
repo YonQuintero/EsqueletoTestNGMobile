@@ -98,6 +98,7 @@ public class ClaseBase {
 		String hora = fecha.format(horaSistema);
 		return hora;
 	}
+	
 
 	// METODO DE NAVEGADOR
 	@SuppressWarnings("rawtypes")
