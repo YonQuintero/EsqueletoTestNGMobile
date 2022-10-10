@@ -17,6 +17,7 @@ public class MapObjectAlertasM extends ClaseBase
 	
 	//ELEMENTOS PAGINA INICIAL
 	protected By btnVentana=By.xpath("//android.widget.ImageButton[@content-desc='Cambiar o cerrar pestañas']");
+	
 	protected By nuevaVentana=By.xpath("//android.widget.ImageView[@content-desc='Nueva pestaña']");
 	protected By btnBuscarGoogle=By.xpath("//android.widget.EditText[@text='Busca o escribe la dirección web']");
 	protected By btnAlerts=By.xpath("//android.widget.TextView[@text='Alerts, Frame & Windows']");
